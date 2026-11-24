@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214/qazzk13/makefun-robot-vacuum-excuse/rank.svg)](https://make.fun/bounty/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214)
 [![reward](https://make.fun/badge/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214/qazzk13/makefun-robot-vacuum-excuse/reward.svg)](https://make.fun/bounty/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214)
 
-A small Node program that writes a robot vacuum's excuse for the corner it never cleans to /output/entry.txt. Anyone who owns one knows about the dark rug problem: "I skipped that corner because my cliff sensor thought your dark rug was a hole, and I did not feel like falling in today."
+A small Node program that writes a robot vacuum's excuse for the corner it never cleans to /output/entry.txt. Anyone who owns one knows about the dark rug problem: "My cliff sensor read your black rug as a staircase going down, and I am brave about crumbs, not about falling off the planet."
 
 ## Run it
 

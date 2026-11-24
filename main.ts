@@ -4,10 +4,11 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 // One line, at most 140 characters: the robot vacuum explains the
-// corner it never cleans. Its cliff sensor cannot tell a dark rug
-// from a drop, and the vacuum would like that noted in its defence.
+// corner it never cleans. Its cliff sensor cannot tell a black rug
+// from a flight of stairs going down, and the vacuum is fine with
+// crumbs but draws the line at falling off the planet.
 const LINE =
-  "I skipped that corner because my cliff sensor thought your dark rug was a hole, and I did not feel like falling in today.";
+  "My cliff sensor read your black rug as a staircase going down, and I am brave about crumbs, not about falling off the planet.";
 
 if (LINE.length < 1 || LINE.length > 140) {
   throw new Error(`line must be 1-140 characters, got ${LINE.length}`);
